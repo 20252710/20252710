@@ -7,7 +7,8 @@
 
 ## 🔬 Research Interests
 
-* Machine Learning / Deep Learning 
+* Machine Learning / Deep Learning
+* Quantum Battery
 
 ##  🛠️ Languages
 
